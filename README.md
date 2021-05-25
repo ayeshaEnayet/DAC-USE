@@ -1,4 +1,5 @@
 # Dialogue-Act-for-dialogue-analysis-
+This repository contains a trained model for the dialogue act classification of utterences. 
 # Requirements:
   tensorflow: 1.15.0,
   tensorflow-hub: 0.5.0,
