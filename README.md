@@ -1,5 +1,5 @@
 # Dialogue-Act-Classification-for-Dialogue-Analysis
-This repository contains a trained model for the dialogue act classification of utterances of the dialogues. 
+This repository contains a trained model for the dialogue act classification of the utterances of the dialogues. The classifier is constructed using the Universal Sentence Encoder available at Tensorflow-Hub (https://tfhub.dev/google/universal-sentence-encoder-large/2). The classifier is trained on SwDA dataset, and the file dialogue1.csv contains the utterances of the dataset. 
 # Requirements:
   tensorflow: 1.15.0,
   tensorflow-hub: 0.5.0,
