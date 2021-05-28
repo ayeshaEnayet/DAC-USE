@@ -6,6 +6,23 @@ This repository contains a trained model for the dialogue act classification of 
   keras: 2.3.1
 # How it works:
 Execute the file DAtagger.py, it will read the dialogue from test_file.csv and write the results to reults.File.
+# Citation:
+if you use this classifier, please cite it as:
+@inproceedings{enayet2021analyzing,
+  title={Analyzing Team Performance with Embeddings from Multiparty Dialogues},
+  author={Enayet, Ayesha and Sukthankar, Gita},
+  booktitle={2021 IEEE 15th International Conference on Semantic Computing (ICSC)},
+  pages={33--39},
+  year={2021},
+  organization={IEEE}
+}
+Or
+@article{enayet2020transfer,
+  title={A Transfer Learning Approach for Dialogue Act Classification of GitHub Issue Comments},
+  author={Enayet, Ayesha and Sukthankar, Gita},
+  journal={arXiv preprint arXiv:2011.04867},
+  year={2020}
+}
 # Relevent papers:
   Enayet, A., & Sukthankar, G. (2020). A Transfer Learning Approach for Dialogue Act Classification of GitHub Issue Comments. arXiv preprint arXiv:2011.04867.
   https://arxiv.org/pdf/2011.04867.pdf
