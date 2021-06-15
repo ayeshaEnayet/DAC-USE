@@ -23,7 +23,7 @@ Or
   journal={arXiv preprint arXiv:2011.04867},
   year={2020}
 }
-# Relevent papers:
+# Relevant papers:
   Enayet, A., & Sukthankar, G. (2020). A Transfer Learning Approach for Dialogue Act Classification of GitHub Issue Comments. arXiv preprint arXiv:2011.04867.
   https://arxiv.org/pdf/2011.04867.pdf
   
