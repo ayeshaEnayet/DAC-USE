@@ -6,7 +6,7 @@ This repository contains a trained model for the dialogue act classification of 
   keras: 2.3.1
 # Tagset:
 # How it works:
-Execute the file DAtagger.py, it will read the dialogue from test_file.csv and write the results to reults.File.
+Execute the file DAtagger.py, it will read the dialogue from test_file.csv and write the results to reult.File.
 # Citation:
 if you use this classifier, please cite it as:
 @inproceedings{enayet2021analyzing,
