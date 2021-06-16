@@ -5,6 +5,7 @@ This repository contains a trained model for the dialogue act classification of 
   tensorflow-hub: 0.5.0,
   keras: 2.3.1
 # Tagset:
+https://web.stanford.edu/~jurafsky/ws97/manual.august1.html
 # How it works:
 Execute the file DAtagger.py, it will read the dialogue from test_file.csv and write the results to reult.File.
 # Citation:
