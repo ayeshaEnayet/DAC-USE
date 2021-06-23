@@ -3,9 +3,9 @@ This repository contains a trained model for the dialogue act classification of 
 # Requirements:
   tensorflow: 1.15.0,
   tensorflow-hub: 0.5.0,
-  keras: 2.3.1
-  h5py = 2.10.0
-  sklearn
+  keras: 2.3.1,
+  h5py = 2.10.0,
+  sklearn,
   pandas 
 # Tagset:
 https://web.stanford.edu/~jurafsky/ws97/manual.august1.html
