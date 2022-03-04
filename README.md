@@ -13,6 +13,13 @@ https://web.stanford.edu/~jurafsky/ws97/manual.august1.html
 Execute the file DAtagger.py, it will read the dialogue from test_file.csv and write the results to reult.File.
 # DA Sequences:
 This repository contains DA sequences from eight different Datasets in a file DomainShift.csv. The eight datasets are g: The GitHub dataset, ami: AMI Meeting dataset, d: Diplomacy dataset, h: Hate Speech dataset, t: Teams dataset,  s: SwDA dataset, m: SAMsum dataset, a: Military (Army) dataset. We randomly selected the subset of the datasets to generate the sequences. These sequences could be used to analyze domain shift, generalizability, and similarity of DA sequences across different datasets.
+# GitHub Dataset:
+This repository contains GitHub dataset. we manually labeled the dialogues as being high conflict or low conflict using the following criteria:
+    The issue did not resolve successfully.
+    The question(s) of the team member(s) remained unanswered.
+    One or more team members did not understand the issue.
+    Lack of understanding or disagreement between the team members.
+    At least one team member did not agree with the suggested solution.
 # Citation:
 if you use this classifier, please cite it as:
 @inproceedings{enayet2021analyzing,
